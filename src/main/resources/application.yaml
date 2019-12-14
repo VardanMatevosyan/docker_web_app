@@ -1,6 +1,0 @@
-security:
-  oauth2:
-    resource:
-      userInfoUri: http://localhost:8080/userInfo
-server:
-  port: 9090
